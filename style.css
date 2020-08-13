@@ -56,7 +56,7 @@ nav {
   color: #eae3d3;
   background-color: #635750;
   transform: scale(1.15);
-  transition: ease all;
+  transition: all 0.1s ease;
 }
 
 .nav-buttons button:active {
@@ -92,7 +92,7 @@ p {
   font-size: 3rem;
   border: 0.2rem solid #635750;
   border-radius: 10rem;
-  transition: ease all;
+  transition: all 0.1s ease;
 }
 
 .explore:hover {
